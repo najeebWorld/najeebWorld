@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Najeeb, a passionate full-stack developer with a strong foundation in React, React Native, JavaScript, PostgreSQL, GraphQL, Prisma, Node.js, and more. I specialize in creating web and mobile applications, integrating real-time data, maps, and data visualization features. I also have experience in machine leasing, AI tools, and programming languages like C++, Java, and C.
+Hi there! I'm Najeeb, a passionate full-stack developer with a strong foundation in React, React Native, JavaScript, PostgreSQL, GraphQL, Prisma, Node.js, and more. I specialize in creating web and mobile applications, integrating real-time data, maps, and data visualization features. I also have experience in machine learning, AI tools, and programming languages like C++, Java, and C.
 
 
 ## 🌐 Socials:
