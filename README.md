@@ -17,8 +17,7 @@ I build production systems end to end — backend architecture, distributed serv
 
 - 🔭 **Full-Stack Engineer @ [Bermad](https://bermad.com)** — React & React Native apps on a Node/GraphQL/Prisma backend, tuning PostgreSQL for high-volume telemetry
 - 🧠 Previously **R&D Engineer @ TeleMessage** — Java backend services for enterprise messaging at scale
-- 🎓 **B.Sc. Computer Science & Mathematics**, Ariel University — final project graded **100/100**, research in speech recognition with Wav2Vec2
-- 🎖️ Officer, **IDF Unit 8200** — built operational tooling under real constraints
+- 🎓 **B.Sc. Computer Science & Mathematics**, Ariel University — research in speech recognition with Wav2Vec2
 - 💬 Ask me about **GraphQL schema design, React Native, or wiring an LLM into something that actually ships**
 
 ---
